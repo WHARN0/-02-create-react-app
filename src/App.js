@@ -1,7 +1,6 @@
 import Counter from "./Counter";
 import Greeting from "./Greeting";
 import React, { useState } from "react";
-// import TodoList from "./ToDoList";
 
 function Example() {
   const [name, setName] = useState("");
